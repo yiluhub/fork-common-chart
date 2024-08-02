@@ -3,6 +3,16 @@ entries:
   yilu-common:
   - apiVersion: v2
     appVersion: "1.0"
+    created: "2024-08-02T14:12:44.53662829Z"
+    description: A Helm chart for Kubernetes
+    digest: 5008a4cd3c0038bbfa3a4acfb1053483fdf663464d84a43ecedb50db2d9958c7
+    name: yilu-common
+    type: application
+    urls:
+    - https://github.com/yiluhub/fork-common-chart/releases/download/yilu-common-0.6.6/yilu-common-0.6.6.tgz
+    version: 0.6.6
+  - apiVersion: v2
+    appVersion: "1.0"
     created: "2024-05-13T16:25:49.299705102Z"
     description: A Helm chart for Kubernetes
     digest: 5349c183488c13a41998cf17cee22de5c7b67f1b6068fb2d871733d6709ea5a6
@@ -218,4 +228,4 @@ entries:
     urls:
     - https://yiluhub.github.io/common-chart/yilu-common-0.1.0.tgz
     version: 0.1.0
-generated: "2024-05-13T16:25:49.299871213Z"
+generated: "2024-08-02T14:12:44.536906999Z"
