@@ -1,6 +1,7 @@
 # Common chart
 
 This repository contains helm charts for yilu. 
+We use chart-releaser and GitHub pages to publish charts.  
 
 ## Yilu-Common
 Base template to create k8s deployments. For more info check [yilu-common/README.md](yilu-common/README.md)
