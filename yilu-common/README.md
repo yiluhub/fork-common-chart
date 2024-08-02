@@ -1,6 +1,6 @@
 # Yilu Common chart
 
-Yilu-Common is a base chart for all internally used charts.
+Yilu-Common update is a base chart for all internally used charts.
 
 ## VERSIONS AND BREAKING CHANGES
 
