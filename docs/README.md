@@ -1,5 +1,22 @@
 # Yilu Common chart
 
+```
+        _
+       / \      _-'
+     _/|  \-''- _ /
+__-' { |          \
+    /             \
+    /       "o.  |o }
+    |            \ ;
+                  ',
+       \_         __\
+         ''-_    \.//
+           / '-____'
+          /
+        _'
+      _-'
+```
+  
 Yilu-Common is a base chart for all internally used charts.
 
 ## VERSIONS AND BREAKING CHANGES
